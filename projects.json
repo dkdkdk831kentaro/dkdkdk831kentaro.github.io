@@ -3,28 +3,28 @@
     "title": "学習ログ：Python & Web基礎",
     "summary": "毎日30分の学習記録。HTML/CSS/JSとPython基礎で小課題を量産中。",
     "tags": ["学習ログ", "Python", "Web基礎"],
-    "url": "#"
+    "url": "#",
     "cover": "/assets/learning-cover.jpg"
   },
   {
     "title": "実験：バイブコーディング",
     "summary": "LLMに指示→生成→検証→改良。プロンプト設計を実践中。",
     "tags": ["VibeCoding", "LLM", "Prompt"],
-    "url": "#"
-    "cover": "/assets/vibecording-cover.jpg"
+    "url": "#",
+    "cover": "/assets/vibecoding-cover.jpg"
   },
   {
-  "title": "資格：日商簿記3級 合格",
-  "summary": "会計の基礎力を証明。",
-  "tags": ["資格", "会計"],
-  "url": "#",
-  "cover": "/assets/boki-cover.jpg"
+    "title": "資格：日商簿記3級 合格",
+    "summary": "会計の基礎力を証明。",
+    "tags": ["資格", "会計"],
+    "url": "#",
+    "cover": "/assets/boki-cover.jpg"
   },
   {
     "title": "資格：カラーコーディネーター検定2級 合格",
     "summary": "配色理論をUIに活かす。配色ケーススタディを制作中。",
     "tags": ["資格", "配色", "UI"],
-    "url": "#"
+    "url": "#",
     "cover": "/assets/color-cover.jpg"
   }
 ]
