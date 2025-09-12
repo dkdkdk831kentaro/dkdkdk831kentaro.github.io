@@ -1,32 +1,26 @@
 [
   {
-    "title": "案件A：コーポレートサイト改善",
-    "summary": "CLSとLCPを最適化し、Lighthouse 90+を達成。CVRを12%向上。",
-    "tags": [
-      "UI/UX",
-      "Performance",
-      "SEO"
-    ],
-    "url": "https://example.com/case-a"
+    "title": "学習ログ：Python & Web基礎",
+    "summary": "毎日30分の学習記録。HTML/CSS/JSとPython基礎で小課題を量産中。",
+    "tags": ["学習ログ", "Python", "Web基礎"],
+    "url": "#"
   },
   {
-    "title": "案件B：在庫管理ダッシュボード",
-    "summary": "GASとRAGで棚卸を自動化。作業時間を60%削減。",
-    "tags": [
-      "GAS",
-      "Automation",
-      "RAG"
-    ],
-    "url": "https://example.com/case-b"
+    "title": "実験：バイブコーディング",
+    "summary": "LLMに指示→生成→検証→改良。プロンプト設計を実践中。",
+    "tags": ["VibeCoding", "LLM", "Prompt"],
+    "url": "#"
   },
   {
-    "title": "案件C：ブランドLP制作",
-    "summary": "静的サイト + Netlify フォームで高速に公開。CTRを1.8倍に。",
-    "tags": [
-      "Static",
-      "Design",
-      "A/B test"
-    ],
-    "url": "https://example.com/case-c"
+    "title": "資格：日商簿記3級 合格",
+    "summary": "会計の基礎力を証明。学習メモと得点率を公開（追記予定）。",
+    "tags": ["資格", "会計"],
+    "url": "#"
+  },
+  {
+    "title": "資格：カラーコーディネーター検定2級 合格",
+    "summary": "配色理論をUIに活かす。配色ケーススタディを制作中。",
+    "tags": ["資格", "配色", "UI"],
+    "url": "#"
   }
 ]
