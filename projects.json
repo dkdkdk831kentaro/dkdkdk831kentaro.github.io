@@ -1,0 +1,32 @@
+[
+  {
+    "title": "案件A：コーポレートサイト改善",
+    "summary": "CLSとLCPを最適化し、Lighthouse 90+を達成。CVRを12%向上。",
+    "tags": [
+      "UI/UX",
+      "Performance",
+      "SEO"
+    ],
+    "url": "https://example.com/case-a"
+  },
+  {
+    "title": "案件B：在庫管理ダッシュボード",
+    "summary": "GASとRAGで棚卸を自動化。作業時間を60%削減。",
+    "tags": [
+      "GAS",
+      "Automation",
+      "RAG"
+    ],
+    "url": "https://example.com/case-b"
+  },
+  {
+    "title": "案件C：ブランドLP制作",
+    "summary": "静的サイト + Netlify フォームで高速に公開。CTRを1.8倍に。",
+    "tags": [
+      "Static",
+      "Design",
+      "A/B test"
+    ],
+    "url": "https://example.com/case-c"
+  }
+]
