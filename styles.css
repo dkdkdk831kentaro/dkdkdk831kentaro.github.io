@@ -7,12 +7,22 @@
   --card:#e6f2ff;     /* カード背景 薄い水色 */
   --border:#b3daff;   /* 枠線 優しいブルー */
 }
-.profile-img {
-  width: 120px;        /* サイズは調整可 */
-  height: 120px;
-  border-radius: 50%;  /* 丸型にする */
-  object-fit: cover;   /* はみ出しを中央でトリミング */
-  margin-bottom: 1rem;
+.profile-banner {
+  width: 100%;
+  height: 200px;              /* 帯の高さ（調整可） */
+  overflow: hidden;           /* はみ出しを隠す */
+  display: flex;              /* 中央配置用 */
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f5f5;  /* 画像が小さい場合の背景色 */
+}
+
+.profile-banner-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;          /* 横幅いっぱいにトリミング */
+  object-position: center;    /* 画像の中心を表示 */
+  opacity: 0.9;               /* 少し透けさせたい場合 */
 }
 
 :root.dark{
