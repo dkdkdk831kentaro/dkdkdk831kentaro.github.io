@@ -1,9 +1,20 @@
 /* Minimal, responsive, system-font CSS */
 :root{
-  --bg:#fff; --fg:#161616; --muted:#6b7280; --accent:#f472b6; --card:#fdf2f8; --border:#ffe4ef;
+  --bg:#ffffff;       /* 背景 白 */
+  --fg:#0a2540;       /* 文字 濃い青 */
+  --muted:#5b7c99;    /* 補助テキスト 淡い青グレー */
+  --accent:#007bff;   /* アクセント 鮮やかな青 */
+  --card:#e6f2ff;     /* カード背景 薄い水色 */
+  --border:#b3daff;   /* 枠線 優しいブルー */
 }
+
 :root.dark{
-  --bg:#0b0f14; --fg:#e5e7eb; --muted:#94a3b8; --accent:#f9a8d4; --card:#1a1f2a; --border:#2a2f3a;
+  --bg:#0a0f1a;       /* 暗背景 深いネイビーブルー */
+  --fg:#e0f0ff;       /* 文字 明るい水色 */
+  --muted:#8caac6;    /* 補助テキスト 青みのグレー */
+  --accent:#339cff;   /* アクセント 鮮やかなライトブルー */
+  --card:#142033;     /* カード背景 ダークネイビー */
+  --border:#244060;   /* 枠線 深いブルーグレー */
 }
 *{box-sizing:border-box}
 html,body{margin:0;height:100%;}
