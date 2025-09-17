@@ -17,12 +17,20 @@
   background-color: #f5f5f5;  /* 画像が小さい場合の背景色 */
 }
 
+.profile-banner {
+  width: 100%;
+  height: 120px;              /* 高さを帯っぽく短く（例：3分の1くらい） */
+  overflow: hidden;           /* はみ出しカット */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .profile-banner-img {
   width: 100%;
   height: 100%;
-  object-fit: cover;          /* 横幅いっぱいにトリミング */
-  object-position: center;    /* 画像の中心を表示 */
-  opacity: 0.9;               /* 少し透けさせたい場合 */
+  object-fit: cover;          /* 画像を帯にフィット */
+  object-position: center;    /* 中央を切り抜く */
 }
 
 :root.dark{
