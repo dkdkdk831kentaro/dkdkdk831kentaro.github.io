@@ -1,6 +1,6 @@
 [
   {
-    "title": "学習ログ：Python & Web基礎",
+    "title": "学習：Python & Web基礎",
     "summary": "毎日30分の学習記録。HTML/CSS/JSとPython基礎で小課題を量産中。",
     "tags": ["学習ログ", "Python", "Web基礎"],
     "url": "#",
@@ -36,7 +36,7 @@
   },
   {
     "title": "資格：障害者職業生活相談員",
-    "summary": "職場における障害者の雇用支援・相談対応の知識を習得。",
+    "summary": "職場における障がい者の雇用支援・相談対応の知識を習得。",
     "tags": ["資格", "労務", "ダイバーシティ"],
     "url": "#",
     "cover": "/assets/shogaisha-consultant-cover.jpg"
