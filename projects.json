@@ -7,6 +7,13 @@
     "cover": "/assets/learning-cover.jpg"
   },
   {
+    "title": "学習：生成AIトレンドキャッチアップ＆実践",
+    "summary": "最新の生成AI動向を追い、実際に触れて検証。PoCや自動化に反映。",
+    "tags": ["学習", "生成AI", "トレンド", "実践"],
+    "url": "#",
+    "cover": "/assets/genai-trend-cover.jpg"
+  },
+  {
     "title": "実験：バイブコーディング",
     "summary": "LLMに指示→生成→検証→改良。プロンプト設計を実践中。",
     "tags": ["VibeCoding", "LLM", "Prompt"],
@@ -26,5 +33,12 @@
     "tags": ["資格", "配色", "UI"],
     "url": "#",
     "cover": "/assets/color-cover.jpg"
+  },
+  {
+    "title": "資格：障害者職業生活相談員",
+    "summary": "職場における障害者の雇用支援・相談対応の知識を習得。",
+    "tags": ["資格", "労務", "ダイバーシティ"],
+    "url": "#",
+    "cover": "/assets/shogaisha-consultant-cover.jpg"
   }
 ]
