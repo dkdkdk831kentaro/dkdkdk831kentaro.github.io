@@ -19,7 +19,7 @@
 
 .profile-banner {
   width: 100%;
-  height: 150px;              /* 高さを帯っぽく短く（例：3分の1くらい） */
+  height: 170px;              /* 高さを帯っぽく短く（例：3分の1くらい） */
   overflow: hidden;           /* はみ出しカット */
   display: flex;
   justify-content: center;
